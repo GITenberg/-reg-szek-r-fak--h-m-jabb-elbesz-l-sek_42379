@@ -1,0 +1,36 @@
+_repo: -reg-szek-r-fak--h-m-jabb-elbesz-l-sek_42379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+description: ''
+gutenberg_issued: '2013-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42379'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction'
+- !lcc 'PH'
+- !lcsh 'Short stories, Hungarian'
+tableOfContents: 'A kompossessor fák -- A fiaim: "A én pohárom". Aussi brebis. A Berci
+  fogai vagy a képek roppant értéke. Az első bánat. Az öregek -- A fehér kutya --
+  A szamár sine curában -- Ott alszik a Marcsa is -- Szegény ember tőkéje -- A kemény
+  koponyák -- A kis szeplős -- Mme Gvuáp és porontyai -- Grisics hitelbe vett bort
+  -- A Ponci bűnhődése.'
+title: 'Öreg szekér fakó hám: Újabb elbeszélések'
+url: http://www.gutenberg.org/ebooks/42379
